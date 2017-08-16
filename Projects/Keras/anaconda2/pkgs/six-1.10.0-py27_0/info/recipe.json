@@ -1,0 +1,47 @@
+{
+  "about": {
+    "home": "http://pypi.python.org/pypi/six/", 
+    "license": "MIT", 
+    "license_file": "LICENSE", 
+    "summary": "Python 2 and 3 compatibility utilities"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "six", 
+    "version": "1.10.0"
+  }, 
+  "requirements": {
+    "build": [
+      "python"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python"
+    ]
+  }, 
+  "source": {
+    "fn": "six-1.10.0.tar.gz", 
+    "git_rev": "", 
+    "md5": "34eed507548117b2ab523ab14b2f8b55", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://pypi.python.org/packages/source/s/six/six-1.10.0.tar.gz"
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [
+      "six"
+    ], 
+    "requires": []
+  }
+}

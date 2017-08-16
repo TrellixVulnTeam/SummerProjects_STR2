@@ -1,0 +1,107 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/redis-2.10.5-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "1fd15964723f86a06f4df6d19dfa10bd23ec3f956f744e173fc209e87359efb3",
+      "size_in_bytes": 32785
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f8dbdff0ee93c2a8c5364d2a0daca572b6f189d34efddda61cbf5359184e1bbd",
+      "size_in_bytes": 902
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "09b138d30c51c39728aefe2dcb9831a9d3bcd93e1776d6f02a5fd4ff08b3be21",
+      "size_in_bytes": 1135
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/_compat.py",
+      "path_type": "hardlink",
+      "sha256": "733fc67eda93df8d6c6c7fc5a60276ee057b1847d1e7db5a0c5b2c03a7850e82",
+      "size_in_bytes": 2927
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/_compat.pyc",
+      "path_type": "hardlink",
+      "sha256": "760512cd4b00d79c1fce533c927361104b33f7b9a44fe012e3dbb227b27db6bd",
+      "size_in_bytes": 5100
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/client.py",
+      "path_type": "hardlink",
+      "sha256": "9dbcf3bc22ccad09e6422563fb76396403e9eaf03cb3ce905500196ed8d9e69e",
+      "size_in_bytes": 101774
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/client.pyc",
+      "path_type": "hardlink",
+      "sha256": "d38933b63a4187391e0923deda54ee1f371948a25a52fca26a0ed262f4714989",
+      "size_in_bytes": 107511
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/connection.py",
+      "path_type": "hardlink",
+      "sha256": "7f2c9940764696ef8613e1a95f8885ec6468642d26040c3019f820fa03e87ece",
+      "size_in_bytes": 37280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/connection.pyc",
+      "path_type": "hardlink",
+      "sha256": "9549e49c07b02847d21338e22da0793cc28c5fc00e9852ad7bcfc77ddfbfdaa5",
+      "size_in_bytes": 32539
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/exceptions.py",
+      "path_type": "hardlink",
+      "sha256": "70d2121d5b976391ed21a30676b221023e3430af93d38951528a49ffbec02346",
+      "size_in_bytes": 1224
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/exceptions.pyc",
+      "path_type": "hardlink",
+      "sha256": "2e4ef1dbb1fd58b2d86fdf5d4a21fb7400b79b45b2dd8c7a9b2ceac668250963",
+      "size_in_bytes": 3171
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/lock.py",
+      "path_type": "hardlink",
+      "sha256": "9dda8c30d6ed956fd93ba9e620028f0cdf0fad035495e0b15aa5ebb8bf8c6b7b",
+      "size_in_bytes": 10563
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/lock.pyc",
+      "path_type": "hardlink",
+      "sha256": "46254aedc17daa73b98e2a5ea216d43cab372a2b89e6d6d9b185f47933f32ea4",
+      "size_in_bytes": 10596
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/sentinel.py",
+      "path_type": "hardlink",
+      "sha256": "0792c49b37e946a2755855926083da9c19fb9fbee5fe3a6ac4165394891dbbb7",
+      "size_in_bytes": 11868
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/sentinel.pyc",
+      "path_type": "hardlink",
+      "sha256": "94f3bfbbb14faeb1c22edc6eb87de2bbc3138d34045f3b6fa4f5c440ad7e5ff8",
+      "size_in_bytes": 11596
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/utils.py",
+      "path_type": "hardlink",
+      "sha256": "c93c8b5948bad0a4dfc385389d685b1af41d36941bf56a5d7ff41cc7f9542495",
+      "size_in_bytes": 666
+    },
+    {
+      "_path": "lib/python2.7/site-packages/redis/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "74f7d0d1fc53f7458712bbbc26018136ee2f7143d0dea3c8c81fa5d83bcbb69b",
+      "size_in_bytes": 1270
+    }
+  ],
+  "paths_version": 1
+}

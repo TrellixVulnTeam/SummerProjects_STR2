@@ -1,0 +1,11 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "BSD", 
+  "name": "openblas", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.2.19"
+}

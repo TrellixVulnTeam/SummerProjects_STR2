@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "MIT", 
+  "name": "singledispatch", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.4.0.3"
+}

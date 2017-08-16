@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "decorator >=3.4", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "networkx", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.11"
+}

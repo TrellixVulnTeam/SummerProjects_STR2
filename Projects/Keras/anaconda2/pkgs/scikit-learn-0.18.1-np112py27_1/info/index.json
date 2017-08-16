@@ -1,0 +1,17 @@
+{
+  "arch": "ppc64le", 
+  "build": "np112py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "numpy 1.12*", 
+    "openblas 0.2.19", 
+    "python 2.7*", 
+    "scipy"
+  ], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "name": "scikit-learn", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.18.1"
+}

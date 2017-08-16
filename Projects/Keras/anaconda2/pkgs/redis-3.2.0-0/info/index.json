@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "name": "redis", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.2.0"
+}

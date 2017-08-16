@@ -1,0 +1,95 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/terminado-0.6-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "b9c6264773048c3dd30e08e3af6a7e93db374b487c1f2396e287b187d056a841",
+      "size_in_bytes": 3891
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "3d3c0d263930f1fe30460d982234ee518135a9470fc7c253ff24439853c375ef",
+      "size_in_bytes": 315
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "03d758e03f80d97c3def9371c251853fb7f755b7c5ef19d277cd82c6ae020d2e",
+      "size_in_bytes": 508
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/_static/terminado.js",
+      "path_type": "hardlink",
+      "sha256": "bc47b7e71f25fecbdc0fb4605adc9d5de7b5436443057d52168560c2bab0b4fc",
+      "size_in_bytes": 1073
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/management.py",
+      "path_type": "hardlink",
+      "sha256": "a08be98d4e6a70358ee5258f2e2965d1ff6533db673fe5b9326e991882a62cd8",
+      "size_in_bytes": 11358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/management.pyc",
+      "path_type": "hardlink",
+      "sha256": "2883a298385760ad28ab339bf3450acb4c5013b99a5e3b2b8e2516a17d468ff5",
+      "size_in_bytes": 13855
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "94ec94a1b4b6df3dc9f49057a1f26eb13b19804de18ea84e5fcb5d50feeb2e21",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/tests/basic_test.py",
+      "path_type": "hardlink",
+      "sha256": "ed872a9478d2bb0506dfa4d240a48ab191cc71d0abb50ad3bc3fbc93c8eb052c",
+      "size_in_bytes": 8634
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/tests/basic_test.pyc",
+      "path_type": "hardlink",
+      "sha256": "4fbe18bf3b32490d586bcd5836663c9ae25c2226419f65d807202a9abfc2d462",
+      "size_in_bytes": 10499
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/uimod_embed.js",
+      "path_type": "hardlink",
+      "sha256": "804b915818f5fd17ecded2c46f04e0b36f9b5236b3faea74a6661b27e91aa266",
+      "size_in_bytes": 604
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/uimodule.py",
+      "path_type": "hardlink",
+      "sha256": "8e71eb58eefe56b75222e9b853ca8ea2d1cd45fe762203e1f21ccc082b090b8a",
+      "size_in_bytes": 662
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/uimodule.pyc",
+      "path_type": "hardlink",
+      "sha256": "3d872adb195ae65a962f6627e42805dea2014f59d50fd98dd7472de680ebdc14",
+      "size_in_bytes": 1332
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/websocket.py",
+      "path_type": "hardlink",
+      "sha256": "f68805837c3a291cf619f884cc570b7134f3092cc0faeaf58629364156e3a876",
+      "size_in_bytes": 4528
+    },
+    {
+      "_path": "lib/python2.7/site-packages/terminado/websocket.pyc",
+      "path_type": "hardlink",
+      "sha256": "34e0e9573dff7e84c3f300000e2971b59357d620039331da616a10eb876b5fdc",
+      "size_in_bytes": 4286
+    }
+  ],
+  "paths_version": 1
+}

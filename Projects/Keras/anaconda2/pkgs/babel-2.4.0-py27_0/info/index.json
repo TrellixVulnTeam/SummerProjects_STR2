@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "pytz"
+  ], 
+  "license": "BSD", 
+  "name": "babel", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.4.0"
+}

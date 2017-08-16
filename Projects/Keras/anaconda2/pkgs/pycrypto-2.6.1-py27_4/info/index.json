@@ -1,0 +1,13 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_4", 
+  "build_number": 4, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "Public-Domain", 
+  "name": "pycrypto", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.6.1"
+}

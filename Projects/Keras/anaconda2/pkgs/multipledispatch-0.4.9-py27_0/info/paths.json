@@ -1,0 +1,95 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "03e02b3cf2a4948c6692ac0033d5697b64bb1ea52403430d8267cdc552d27cff",
+      "size_in_bytes": 271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "bd863ccea94c1367a384b348686a8f13a5133e5465b7eb5677e05febb2a5d869",
+      "size_in_bytes": 368
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "bd117f8742881e7d250725676495e5cf3eaa28ada632c1671f994b921a39ace2",
+      "size_in_bytes": 17
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "07849d3561ce3ff3e02aa2eb3a9903ef1d0e7c7de4b4078302ca416d9f5da44b",
+      "size_in_bytes": 147
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "305977c0d560f343ab35028fdde0c339dbcc7c23777dca428952aeca3a254033",
+      "size_in_bytes": 386
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/conflict.py",
+      "path_type": "hardlink",
+      "sha256": "c38e7bb0aa7439890a96f35fddfc4f97a0a7e14d3ea389380806dcbe32c545ce",
+      "size_in_bytes": 2128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/conflict.pyc",
+      "path_type": "hardlink",
+      "sha256": "b9e040128ca9c8a3f07bc46bede230cfeb80d34a912070ce4b01887f61a65b6e",
+      "size_in_bytes": 4095
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/core.py",
+      "path_type": "hardlink",
+      "sha256": "66fd002f8a60fc31d216332bb549e9b5dfe80e6aa81229138695bbe166b37c72",
+      "size_in_bytes": 2265
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "b97503425195c64157be6f65b714438b1006c7a9b98143c114c719787efe18b3",
+      "size_in_bytes": 2732
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/dispatcher.py",
+      "path_type": "hardlink",
+      "sha256": "a8b75e0879947e544c2ec303e6077e0ec730ed09abbd8686b1fbd2462f6aed9e",
+      "size_in_bytes": 9449
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/dispatcher.pyc",
+      "path_type": "hardlink",
+      "sha256": "77a54a9f4e6fe530bde474020dd4ef9f48ce4ec4fda2f7eaef45dc662b052cb5",
+      "size_in_bytes": 12719
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/utils.py",
+      "path_type": "hardlink",
+      "sha256": "8c224cd1f7261ac4215c1b6e739a189b97b5c8a61ad2076dbd247e5a5f48ea35",
+      "size_in_bytes": 2982
+    },
+    {
+      "_path": "lib/python2.7/site-packages/multipledispatch/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "02390a0716bd372605e8a3deed13dccc193930f3a243ee077a2f1b2a066c016b",
+      "size_in_bytes": 3976
+    }
+  ],
+  "paths_version": 1
+}

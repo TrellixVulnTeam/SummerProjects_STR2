@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "heapdict", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "license_family": "BSD", 
+  "name": "zict", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.1.2"
+}

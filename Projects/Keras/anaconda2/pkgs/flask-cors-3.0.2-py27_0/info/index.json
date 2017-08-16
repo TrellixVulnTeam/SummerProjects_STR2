@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "flask >=0.9", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "MIT", 
+  "name": "flask-cors", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.0.2"
+}

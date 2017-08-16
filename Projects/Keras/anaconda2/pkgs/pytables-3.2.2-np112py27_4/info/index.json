@@ -1,0 +1,17 @@
+{
+  "arch": "ppc64le", 
+  "build": "np112py27_4", 
+  "build_number": 4, 
+  "depends": [
+    "hdf5 1.8.17", 
+    "numexpr", 
+    "numpy 1.12*", 
+    "python 2.7*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "BSD", 
+  "name": "pytables", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.2.2"
+}

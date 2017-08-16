@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "ISC", 
+  "license_family": "Other", 
+  "name": "libsodium", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.0.10"
+}

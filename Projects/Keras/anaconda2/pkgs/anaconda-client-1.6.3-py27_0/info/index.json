@@ -1,0 +1,19 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "clyent", 
+    "python 2.7*", 
+    "python-dateutil", 
+    "pytz", 
+    "pyyaml", 
+    "requests >=2.9.1", 
+    "setuptools"
+  ], 
+  "license": "BSD", 
+  "name": "anaconda-client", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.6.3"
+}

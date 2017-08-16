@@ -1,0 +1,9 @@
+/home/bob/Projects/Test/teslib/bin/Debug/teslib.dll
+/home/bob/Projects/Test/teslib/bin/Debug/teslib.dll.mdb
+/home/bob/Projects/Test/teslib/bin/Debug/FSharp.Core.dll
+/home/bob/Projects/Test/teslib/bin/Debug/System.ValueTuple.dll
+/home/bob/Projects/Test/teslib/bin/Debug/FSharp.Core.xml
+/home/bob/Projects/Test/teslib/obj/Debug/teslib.fsprojResolveAssemblyReference.cache
+/home/bob/Projects/Test/teslib/obj/Debug/teslib.fsproj.CoreCompileInputs.cache
+/home/bob/Projects/Test/teslib/obj/Debug/teslib.dll
+/home/bob/Projects/Test/teslib/obj/Debug/teslib.dll.mdb

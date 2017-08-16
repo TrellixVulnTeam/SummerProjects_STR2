@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "configparser", 
+    "python 2.7*"
+  ], 
+  "license": "MIT", 
+  "name": "entrypoints", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.2.2"
+}

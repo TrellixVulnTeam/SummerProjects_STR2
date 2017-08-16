@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/pyodbc-4.0.16-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "ed06d9bde07e21e948d166703a3f78788fffc22a6403b6de495a40a995677b6c",
+      "size_in_bytes": 858
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyodbc.so",
+      "path_type": "hardlink",
+      "sha256": "c638a67d5d3013eb8629ac83963fabe86e3b8512d83df7fd167300b685a9bf45",
+      "size_in_bytes": 649815
+    }
+  ],
+  "paths_version": 1
+}

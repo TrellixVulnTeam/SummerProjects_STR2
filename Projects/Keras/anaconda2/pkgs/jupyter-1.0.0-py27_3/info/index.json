@@ -1,0 +1,18 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_3", 
+  "build_number": 3, 
+  "depends": [
+    "ipykernel", 
+    "ipywidgets", 
+    "jupyter_console", 
+    "nbconvert", 
+    "notebook", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "jupyter", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.0.0"
+}

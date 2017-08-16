@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "3", 
+  "build_number": 3, 
+  "depends": [], 
+  "license": "zlib", 
+  "license_family": "Other", 
+  "name": "zlib", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.2.8"
+}

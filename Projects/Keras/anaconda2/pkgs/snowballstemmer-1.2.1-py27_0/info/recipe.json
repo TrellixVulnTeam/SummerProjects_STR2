@@ -1,0 +1,47 @@
+{
+  "about": {
+    "home": "https://github.com/shibukawa/snowball_py", 
+    "license": "BSD", 
+    "license_file": "LICENSE.rst", 
+    "summary": "provides 16 stemmer algorithms generated from Snowball algorithms"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "snowballstemmer", 
+    "version": "1.2.1"
+  }, 
+  "requirements": {
+    "build": [
+      "python"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python"
+    ]
+  }, 
+  "source": {
+    "fn": "snowballstemmer-1.2.1.tar.gz", 
+    "git_rev": "", 
+    "md5": "643b019667a708a922172e33a99bf2fa", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://pypi.python.org/packages/source/s/snowballstemmer/snowballstemmer-1.2.1.tar.gz"
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [
+      "snowballstemmer"
+    ], 
+    "requires": []
+  }
+}

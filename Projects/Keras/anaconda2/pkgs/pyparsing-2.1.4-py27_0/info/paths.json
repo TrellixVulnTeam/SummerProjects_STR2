@@ -1,0 +1,41 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing-2.1.4-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "40ed6726dc9b19bb66c7cfba365e1b6c9e00503f3497e64d6d1a93d653848c90",
+      "size_in_bytes": 920
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing-2.1.4-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "0a7b31b612d73f8ec51e3212bd8417d0d9ef0e58681f1dd0ac66a26f3e1bdbb4",
+      "size_in_bytes": 5021
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing-2.1.4-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing-2.1.4-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "7943a31b3255865437592dab140cb698ddcb5ffec5293339192274e237e72e65",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing.py",
+      "path_type": "hardlink",
+      "sha256": "9176037379a20a2b094460036a2c4f4b215d32bad5b5694adf9d218d376060d4",
+      "size_in_bytes": 168204
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pyparsing.pyc",
+      "path_type": "hardlink",
+      "sha256": "ec3571df5f8b400ca54bca500958d6e9348a9f43bf1c3823da408b837daf37df",
+      "size_in_bytes": 163584
+    }
+  ],
+  "paths_version": 1
+}

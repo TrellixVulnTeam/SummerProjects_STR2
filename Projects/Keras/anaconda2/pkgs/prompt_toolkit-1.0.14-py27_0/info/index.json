@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "six >=1.9.0", 
+    "wcwidth"
+  ], 
+  "license": "BSD", 
+  "name": "prompt_toolkit", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.0.14"
+}

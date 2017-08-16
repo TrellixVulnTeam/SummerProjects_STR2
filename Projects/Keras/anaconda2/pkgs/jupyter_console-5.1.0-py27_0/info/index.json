@@ -1,0 +1,18 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ipykernel", 
+    "ipython", 
+    "jupyter_client", 
+    "prompt_toolkit >=1.0,<2.0", 
+    "pygments", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "jupyter_console", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "5.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/backports_abc-0.5-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "8a74b7933b4cd3210599dc3e5b029690d2ba2adb9539d6c948275a361eea982a",
+      "size_in_bytes": 3501
+    },
+    {
+      "_path": "lib/python2.7/site-packages/backports_abc.py",
+      "path_type": "hardlink",
+      "sha256": "ffa4406c294b8829f4935b191a9d8537acae2dca988412a7111867a4403a0d39",
+      "size_in_bytes": 5526
+    },
+    {
+      "_path": "lib/python2.7/site-packages/backports_abc.pyc",
+      "path_type": "hardlink",
+      "sha256": "ebb87d4bfb61f6ac80464913de981eef3e8f93c9fabfc593eb901509f75fc49c",
+      "size_in_bytes": 6826
+    }
+  ],
+  "paths_version": 1
+}

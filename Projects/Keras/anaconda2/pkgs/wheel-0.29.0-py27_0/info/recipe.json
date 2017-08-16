@@ -1,0 +1,52 @@
+{
+  "about": {
+    "home": "http://bitbucket.org/pypa/wheel/", 
+    "license": "MIT", 
+    "license_file": "LICENSE.txt", 
+    "summary": "built-package format for Python"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [
+      "wheel = wheel.tool:main"
+    ], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "wheel", 
+    "version": "0.29.0"
+  }, 
+  "requirements": {
+    "build": [
+      "python", 
+      "setuptools"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python"
+    ]
+  }, 
+  "source": {
+    "fn": "wheel-0.29.0.tar.gz", 
+    "git_rev": "", 
+    "md5": "555a67e4507cedee23a0deb9651e452f", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://pypi.python.org/packages/source/w/wheel/wheel-0.29.0.tar.gz"
+  }, 
+  "test": {
+    "commands": [
+      "wheel -h"
+    ], 
+    "files": [], 
+    "imports": [
+      "wheel"
+    ], 
+    "requires": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "arch": "ppc64le", 
+  "build": "2", 
+  "build_number": 2, 
+  "depends": [], 
+  "license": "Apache-style", 
+  "license_family": "Apache", 
+  "name": "openssl", 
+  "platform": "linux", 
+  "requires": [], 
+  "subdir": "linux-ppc64le", 
+  "version": "1.0.2k"
+}

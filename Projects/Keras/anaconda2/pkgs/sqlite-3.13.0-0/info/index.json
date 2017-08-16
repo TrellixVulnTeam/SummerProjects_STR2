@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "Public-Domain", 
+  "license_family": "Public-Domain", 
+  "name": "sqlite", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.13.0"
+}

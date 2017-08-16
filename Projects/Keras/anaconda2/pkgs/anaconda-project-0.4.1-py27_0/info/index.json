@@ -1,0 +1,18 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "anaconda-client", 
+    "beautifulsoup4", 
+    "python 2.7*", 
+    "requests", 
+    "ruamel_yaml", 
+    "tornado"
+  ], 
+  "license": "BSD", 
+  "name": "anaconda-project", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.4.1"
+}

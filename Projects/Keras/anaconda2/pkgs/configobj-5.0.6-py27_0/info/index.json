@@ -1,0 +1,19 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "BSD", 
+  "name": "configobj", 
+  "platform": "linux", 
+  "requires": [
+    "python 2.7", 
+    "six 1.9.0"
+  ], 
+  "subdir": "linux-ppc64le", 
+  "ucs": 4, 
+  "version": "5.0.6"
+}

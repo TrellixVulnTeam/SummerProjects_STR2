@@ -1,0 +1,131 @@
+{
+  "paths": [
+    {
+      "_path": "bin/libpng-config",
+      "path_type": "softlink",
+      "sha256": "9a008794979daaab3de11619ff5a848f4384b17d5e6c42ef919f5a50fa0642b7",
+      "size_in_bytes": 2349
+    },
+    {
+      "_path": "bin/libpng16-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "9a008794979daaab3de11619ff5a848f4384b17d5e6c42ef919f5a50fa0642b7",
+      "size_in_bytes": 2349
+    },
+    {
+      "_path": "bin/png-fix-itxt",
+      "path_type": "hardlink",
+      "sha256": "77dc59bf04cf9d2fba774c09590b7264dd4bc10f5c7fb235f2873b64bdff829c",
+      "size_in_bytes": 70293
+    },
+    {
+      "_path": "bin/pngfix",
+      "path_type": "hardlink",
+      "sha256": "3475902c74d018ed0d12e12a140a86992dc4a07166a56e893352a77fe6fa9173",
+      "size_in_bytes": 81643
+    },
+    {
+      "_path": "include/libpng16/png.h",
+      "path_type": "hardlink",
+      "sha256": "35d7440046a4590d62d86e4e650178910960dec6a8cb5b324b9d956c97722d13",
+      "size_in_bytes": 143511
+    },
+    {
+      "_path": "include/libpng16/pngconf.h",
+      "path_type": "hardlink",
+      "sha256": "13173f6b328653f2e684165229a3bcc11fa6d9ddd135723baeb1e76a0cf7dd96",
+      "size_in_bytes": 22844
+    },
+    {
+      "_path": "include/libpng16/pnglibconf.h",
+      "path_type": "hardlink",
+      "sha256": "251e0beb371dc78dfc8fd77c071473b428acffab690af1dbfcfe3de31255c2a6",
+      "size_in_bytes": 7387
+    },
+    {
+      "_path": "include/png.h",
+      "path_type": "softlink",
+      "sha256": "35d7440046a4590d62d86e4e650178910960dec6a8cb5b324b9d956c97722d13",
+      "size_in_bytes": 143511
+    },
+    {
+      "_path": "include/pngconf.h",
+      "path_type": "softlink",
+      "sha256": "13173f6b328653f2e684165229a3bcc11fa6d9ddd135723baeb1e76a0cf7dd96",
+      "size_in_bytes": 22844
+    },
+    {
+      "_path": "include/pnglibconf.h",
+      "path_type": "softlink",
+      "sha256": "251e0beb371dc78dfc8fd77c071473b428acffab690af1dbfcfe3de31255c2a6",
+      "size_in_bytes": 7387
+    },
+    {
+      "_path": "lib/libpng.a",
+      "path_type": "softlink",
+      "sha256": "17abaee08657ffb7e78c896f0aee419a01d731f67a1f5539da580c9a372cb201",
+      "size_in_bytes": 475454
+    },
+    {
+      "_path": "lib/libpng.la",
+      "path_type": "softlink",
+      "sha256": "13f28c2c192a10c26b56ce60a5053d42e544dcbbf0b21cf2c29b3a1bc5a03b52",
+      "size_in_bytes": 998
+    },
+    {
+      "_path": "lib/libpng.so",
+      "path_type": "softlink",
+      "sha256": "f4b7195d8f9d2740865a00b7fd680b6926928ded7dda2c7a4e6aaf78692ec218",
+      "size_in_bytes": 366401
+    },
+    {
+      "_path": "lib/libpng16.a",
+      "path_type": "hardlink",
+      "sha256": "17abaee08657ffb7e78c896f0aee419a01d731f67a1f5539da580c9a372cb201",
+      "size_in_bytes": 475454
+    },
+    {
+      "_path": "lib/libpng16.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "13f28c2c192a10c26b56ce60a5053d42e544dcbbf0b21cf2c29b3a1bc5a03b52",
+      "size_in_bytes": 998
+    },
+    {
+      "_path": "lib/libpng16.so",
+      "path_type": "softlink",
+      "sha256": "f4b7195d8f9d2740865a00b7fd680b6926928ded7dda2c7a4e6aaf78692ec218",
+      "size_in_bytes": 366401
+    },
+    {
+      "_path": "lib/libpng16.so.16",
+      "path_type": "softlink",
+      "sha256": "f4b7195d8f9d2740865a00b7fd680b6926928ded7dda2c7a4e6aaf78692ec218",
+      "size_in_bytes": 366401
+    },
+    {
+      "_path": "lib/libpng16.so.16.27.0",
+      "path_type": "hardlink",
+      "sha256": "f4b7195d8f9d2740865a00b7fd680b6926928ded7dda2c7a4e6aaf78692ec218",
+      "size_in_bytes": 366401
+    },
+    {
+      "_path": "lib/pkgconfig/libpng.pc",
+      "path_type": "softlink",
+      "sha256": "a6da692cc64f9ef1db4971b4a9017e13b0bd3648631c7bced9131f0c57ad221e",
+      "size_in_bytes": 272
+    },
+    {
+      "_path": "lib/pkgconfig/libpng16.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "a6da692cc64f9ef1db4971b4a9017e13b0bd3648631c7bced9131f0c57ad221e",
+      "size_in_bytes": 272
+    }
+  ],
+  "paths_version": 1
+}

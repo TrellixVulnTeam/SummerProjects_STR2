@@ -1,0 +1,13 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "PSF", 
+  "name": "contextlib2", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.5.5"
+}

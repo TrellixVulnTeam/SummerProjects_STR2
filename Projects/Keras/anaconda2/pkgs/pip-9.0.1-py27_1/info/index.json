@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*", 
+    "setuptools", 
+    "wheel"
+  ], 
+  "license": "MIT", 
+  "name": "pip", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "9.0.1"
+}

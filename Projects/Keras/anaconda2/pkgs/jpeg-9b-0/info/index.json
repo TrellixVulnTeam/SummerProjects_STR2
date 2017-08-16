@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "Custom free software license", 
+  "license_family": "Other", 
+  "name": "jpeg", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "9b"
+}

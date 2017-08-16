@@ -1,0 +1,77 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "604d1605c42104911e4941fd9c91223813d3c5439e623185d0c01010044c49e1",
+      "size_in_bytes": 11399
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "6ed63d7e4a5b2a1fc1e9b8589fe20904b707dc6003095a54739d0452109af535",
+      "size_in_bytes": 11095
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "015b34abea9ffb5d20b35b645617c02dd79b268e2e3ee555057ed84fdd6b8905",
+      "size_in_bytes": 17
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "ba0f407b21ad4262fca35530dd3f97693e83be1c331906cde6ba3f51cfb10adf",
+      "size_in_bytes": 1603
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "e0b756e75c7c2482e69a82beff63164c78d007a0118af0341b0c50d8561e35c9",
+      "size_in_bytes": 1891
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sorteddict.py",
+      "path_type": "hardlink",
+      "sha256": "3f8bcd45e3f425f0927663efaeccc05db9006d697a9a44c16a8d4624d4d3d1fa",
+      "size_in_bytes": 27537
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sorteddict.pyc",
+      "path_type": "hardlink",
+      "sha256": "a25e3d974cfba7ad8276b3083f585a07936022c7b79e9f54d9d3afe20f3042a5",
+      "size_in_bytes": 37982
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sortedlist.py",
+      "path_type": "hardlink",
+      "sha256": "98c73bb088a7efa6925c36c699b36bd4f3aad9990312e1d61cec15a0f072ff61",
+      "size_in_bytes": 76771
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sortedlist.pyc",
+      "path_type": "hardlink",
+      "sha256": "bbed22ab0e7c0e67910747961d93645e7efb497c63be5e666a2761fcfe4784b6",
+      "size_in_bytes": 65926
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sortedset.py",
+      "path_type": "hardlink",
+      "sha256": "a11f49d9e1f9aeb996b6d02cf7243878b7ea1247f3a9d51b766d1118ad84f7db",
+      "size_in_bytes": 10347
+    },
+    {
+      "_path": "lib/python2.7/site-packages/sortedcontainers/sortedset.pyc",
+      "path_type": "hardlink",
+      "sha256": "cb1b1452253e194dd46393cd3147d528f07f7f2c9ad6a7d4b817db9506016c9f",
+      "size_in_bytes": 12736
+    }
+  ],
+  "paths_version": 1
+}

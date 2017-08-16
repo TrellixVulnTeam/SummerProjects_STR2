@@ -1,0 +1,41 @@
+{
+  "paths": [
+    {
+      "_path": "bin/redis-benchmark",
+      "path_type": "hardlink",
+      "sha256": "0ce984ee3e7aaababe5c1a8a5520414eb7ba7a224f7e784ebebc0c48e2a8a38c",
+      "size_in_bytes": 2730626
+    },
+    {
+      "_path": "bin/redis-check-aof",
+      "path_type": "hardlink",
+      "sha256": "522be34b675510737c9c6a5cae867df274973f005f8272c5c6a642681d558237",
+      "size_in_bytes": 90637
+    },
+    {
+      "_path": "bin/redis-check-rdb",
+      "path_type": "hardlink",
+      "sha256": "9522c673d0fcd34d74f26ebd83df91e96ce57afaf482e079b8697d1ede850471",
+      "size_in_bytes": 5760623
+    },
+    {
+      "_path": "bin/redis-cli",
+      "path_type": "hardlink",
+      "sha256": "8225d1192c4d830ffd24b480f449c1b1b3b48febe9ece72594ef4aca9054a605",
+      "size_in_bytes": 2931304
+    },
+    {
+      "_path": "bin/redis-sentinel",
+      "path_type": "softlink",
+      "sha256": "9522c673d0fcd34d74f26ebd83df91e96ce57afaf482e079b8697d1ede850471",
+      "size_in_bytes": 5760623
+    },
+    {
+      "_path": "bin/redis-server",
+      "path_type": "hardlink",
+      "sha256": "9522c673d0fcd34d74f26ebd83df91e96ce57afaf482e079b8697d1ede850471",
+      "size_in_bytes": 5760623
+    }
+  ],
+  "paths_version": 1
+}

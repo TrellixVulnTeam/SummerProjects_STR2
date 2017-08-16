@@ -1,0 +1,11 @@
+{
+  "arch": "ppc64le", 
+  "build": "1", 
+  "build_number": 1, 
+  "depends": [], 
+  "license": "MIT", 
+  "name": "libffi", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.2.1"
+}

@@ -1,0 +1,59 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/chest-0.2.3-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "7fd4268ed83e22a6282176d33be3e94c1c9536d09aca46917011463f9e829a1d",
+      "size_in_bytes": 5540
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "291da41a2d958ec7aec6f4080f5b65a7f7433342161a971c74e22ecaad261fcc",
+      "size_in_bytes": 58
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "81807e2a9c8145572e005a180105a9d24f4322e24452bf60908e565c047ad01e",
+      "size_in_bytes": 239
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/_version.py",
+      "path_type": "hardlink",
+      "sha256": "5ed59497a1cfca5bf98d92ddd8a920b4fa6dbb3b9d6bdde40b644498eac5f82b",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "6dc3cef7845b025a2598a865f9fc939a8be34d3d7d378c94bbdad1fad51f727a",
+      "size_in_bytes": 164
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/core.py",
+      "path_type": "hardlink",
+      "sha256": "eea9a76bc09645f9df889095082b59ba70ab4c9bd8a82947871b458934f4767f",
+      "size_in_bytes": 10544
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "ce96abcfbfdc18fd4da2372043bd6f4b9d16e940c7ef880ce99180db8bfdd31d",
+      "size_in_bytes": 11832
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/utils.py",
+      "path_type": "hardlink",
+      "sha256": "6f3b46ba28818687201c1a36e25702aac7626e731303c822d74e25a6cd4b1e2c",
+      "size_in_bytes": 189
+    },
+    {
+      "_path": "lib/python2.7/site-packages/chest/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "35bd808fc4451e024c65ce069e0673a013f942d61bb1667157e50997b000f72f",
+      "size_in_bytes": 559
+    }
+  ],
+  "paths_version": 1
+}

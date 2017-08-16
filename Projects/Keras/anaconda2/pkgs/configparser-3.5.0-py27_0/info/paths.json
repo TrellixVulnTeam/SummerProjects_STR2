@@ -1,0 +1,77 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/backports/configparser/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "98d3c4408d3aad6b2bd262372afc0c53185f6de8e95369ddc1241075585715ff",
+      "size_in_bytes": 55060
+    },
+    {
+      "_path": "lib/python2.7/site-packages/backports/configparser/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "9cf41e76bb1f81e4260688421ea3b63331ac9c8cf57117bc7b4b2cc59ada27ea",
+      "size_in_bytes": 54759
+    },
+    {
+      "_path": "lib/python2.7/site-packages/backports/configparser/helpers.py",
+      "path_type": "hardlink",
+      "sha256": "8b76425189275c008a13963f1bfb316cc28b951bda3c7d6b1c232aeb7364a096",
+      "size_in_bytes": 5248
+    },
+    {
+      "_path": "lib/python2.7/site-packages/backports/configparser/helpers.pyc",
+      "path_type": "hardlink",
+      "sha256": "e66038820f3d6aa9cbff460d3ef9139e74535923652f131bec2c0ea67291e548",
+      "size_in_bytes": 7866
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "ba33eabaf9e5b267afe49109a197788b3ab0817d866c0f7c74e948951542f948",
+      "size_in_bytes": 15073
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "01ffa3ea86fed7b0c9cae8ee1750e5b57edd4e91e44eb786c6bff2bd9e2888a5",
+      "size_in_bytes": 429
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/namespace_packages.txt",
+      "path_type": "hardlink",
+      "sha256": "7068da2cc3a8051d452b4029a23b73595995893b49ec91882bf1f05e212cbed5",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "988b3c81a8ddedcbc45a1565bafe2eea871a1f0fd327daceae9919105bfeec77",
+      "size_in_bytes": 23
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser.py",
+      "path_type": "hardlink",
+      "sha256": "b5f03220acb75b46a07e1c6d27fc84d639498e89a003a511fe3e923d527b5126",
+      "size_in_bytes": 1508
+    },
+    {
+      "_path": "lib/python2.7/site-packages/configparser.pyc",
+      "path_type": "hardlink",
+      "sha256": "6f7a6b4c542f5bf8cd8652dbf03b808db92d7193e1eae4a2ac52fa22202fe7f0",
+      "size_in_bytes": 1859
+    }
+  ],
+  "paths_version": 1
+}

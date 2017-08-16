@@ -1,0 +1,13 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "libsodium 1.0.*"
+  ], 
+  "license": "LGPL", 
+  "name": "zeromq", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "4.1.5"
+}

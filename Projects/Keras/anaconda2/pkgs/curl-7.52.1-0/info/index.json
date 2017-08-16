@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "openssl 1.0.2*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "MIT/X derivate", 
+  "license_family": "MIT", 
+  "name": "curl", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "7.52.1"
+}

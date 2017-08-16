@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "redis"
+  ], 
+  "license": "MIT", 
+  "license_family": "MIT", 
+  "name": "redis-py", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.10.5"
+}

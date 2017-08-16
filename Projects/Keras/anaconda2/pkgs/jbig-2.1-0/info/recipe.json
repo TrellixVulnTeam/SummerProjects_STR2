@@ -1,0 +1,42 @@
+{
+  "about": {
+    "home": "https://www.cl.cam.ac.uk/~mgk25/jbigkit", 
+    "license": "GPL2", 
+    "summary": "implementation of the JBIG1 data compression standard"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "jbig", 
+    "version": "2.1"
+  }, 
+  "requirements": {
+    "build": [], 
+    "conflicts": [], 
+    "run": []
+  }, 
+  "source": {
+    "fn": "jbigkit-2.1.tar.gz", 
+    "git_rev": "", 
+    "md5": "ebcf09bed9f14d7fa188d3bd57349522", 
+    "patches": [
+      "Makefile.patch"
+    ], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://www.cl.cam.ac.uk/~mgk25/jbigkit/download/jbigkit-2.1.tar.gz"
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [], 
+    "requires": []
+  }
+}

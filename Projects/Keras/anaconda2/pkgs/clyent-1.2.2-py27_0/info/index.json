@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "setuptools"
+  ], 
+  "license": "BSD", 
+  "name": "clyent", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.2.2"
+}

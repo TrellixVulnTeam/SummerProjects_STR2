@@ -1,0 +1,17 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "matplotlib", 
+    "numpy", 
+    "pandas", 
+    "python 2.7*", 
+    "scipy"
+  ], 
+  "license": "BSD", 
+  "name": "seaborn", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.7.1"
+}

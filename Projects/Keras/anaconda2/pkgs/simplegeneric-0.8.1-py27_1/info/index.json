@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "ZPL 2.1", 
+  "license_family": "Other", 
+  "name": "simplegeneric", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.8.1"
+}

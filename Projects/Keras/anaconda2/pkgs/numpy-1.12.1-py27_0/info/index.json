@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "openblas 0.2.19", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "numpy", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.12.1"
+}

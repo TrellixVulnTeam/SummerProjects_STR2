@@ -1,0 +1,277 @@
+{
+  "paths": [
+    {
+      "_path": "bin/xslt-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "93c0ad3d4ef8e71daa7e65db396516e90e6ac50d2ec2ff7b468d1b01ffb09fca",
+      "size_in_bytes": 2587
+    },
+    {
+      "_path": "bin/xsltproc",
+      "path_type": "hardlink",
+      "sha256": "f93ae7d4b58c075cd521320288b9654be75199a89efbf11062b80ae22f9199a8",
+      "size_in_bytes": 142556
+    },
+    {
+      "_path": "include/libexslt/exslt.h",
+      "path_type": "hardlink",
+      "sha256": "67dd566c70036b8a39fa426e7ecb5fe98d74d2a05332a0622b5699b31729fc0a",
+      "size_in_bytes": 3018
+    },
+    {
+      "_path": "include/libexslt/exsltconfig.h",
+      "path_type": "hardlink",
+      "sha256": "eaa0cfe20e1d2c6e21ea8a86050a601731f0b8332f0c5dce5e50da1b91db8e23",
+      "size_in_bytes": 1218
+    },
+    {
+      "_path": "include/libexslt/exsltexports.h",
+      "path_type": "hardlink",
+      "sha256": "6f9f7de70eb4bdef70e997dd242c6d56768ff24998f5c85795d46613ff43986e",
+      "size_in_bytes": 3383
+    },
+    {
+      "_path": "include/libxslt/attributes.h",
+      "path_type": "hardlink",
+      "sha256": "bf02423703962f136da1387866a7fd8e19713a3609fb67ba29b68310ceec1076",
+      "size_in_bytes": 930
+    },
+    {
+      "_path": "include/libxslt/documents.h",
+      "path_type": "hardlink",
+      "sha256": "9018a1807e69a91bc56a5866fdf3851ed2531614e905c9baf35c93e5dc60c1fc",
+      "size_in_bytes": 2704
+    },
+    {
+      "_path": "include/libxslt/extensions.h",
+      "path_type": "hardlink",
+      "sha256": "6d3caebf9fe68fe45d3c58694fcf4b20cfa268c279759b4914992ad2c6df6b11",
+      "size_in_bytes": 6903
+    },
+    {
+      "_path": "include/libxslt/extra.h",
+      "path_type": "hardlink",
+      "sha256": "e1c46c3ec238de3afd8f6d1892d45432940c8a5eeb908fa6b4586fa823dae731",
+      "size_in_bytes": 1834
+    },
+    {
+      "_path": "include/libxslt/functions.h",
+      "path_type": "hardlink",
+      "sha256": "2ce47817ec423df493d90ba5a2fcca1766d0bda9ff5f0fe38da179a6a1020dd3",
+      "size_in_bytes": 2006
+    },
+    {
+      "_path": "include/libxslt/imports.h",
+      "path_type": "hardlink",
+      "sha256": "d7c9088e81aa7455d1eb709edd9b73c6c4e2615dd718aa5c8586a43143c3b942",
+      "size_in_bytes": 1840
+    },
+    {
+      "_path": "include/libxslt/keys.h",
+      "path_type": "hardlink",
+      "sha256": "d7abf6e55125b92ee3621820ea0605c15c6018c9fed5cb67961856593e117016",
+      "size_in_bytes": 1155
+    },
+    {
+      "_path": "include/libxslt/namespaces.h",
+      "path_type": "hardlink",
+      "sha256": "5687d29f62a49fe6b927244a0a66378cfa7b6a6432de7d3dbf3cb429442de2ad",
+      "size_in_bytes": 1666
+    },
+    {
+      "_path": "include/libxslt/numbersInternals.h",
+      "path_type": "hardlink",
+      "sha256": "120e60619e69de1d3f7b9c3223ad52fb413afc0ad5273bf4cabeb78fa054d9f7",
+      "size_in_bytes": 2019
+    },
+    {
+      "_path": "include/libxslt/pattern.h",
+      "path_type": "hardlink",
+      "sha256": "82e37efb4d93d418a634d671c92a1f585b3dd6b47021fa953a46e7af9be402e6",
+      "size_in_bytes": 1998
+    },
+    {
+      "_path": "include/libxslt/preproc.h",
+      "path_type": "hardlink",
+      "sha256": "fb5f4d1fcb77ab5346b06e8eb2772d547924e37b5f3606e9d5e8b9825b7f8cd5",
+      "size_in_bytes": 892
+    },
+    {
+      "_path": "include/libxslt/security.h",
+      "path_type": "hardlink",
+      "sha256": "7d40f5732fd6c45093bd334017458e408538a7908d5a7d4b1c5c9925df85c795",
+      "size_in_bytes": 2652
+    },
+    {
+      "_path": "include/libxslt/templates.h",
+      "path_type": "hardlink",
+      "sha256": "6e7b7a26aba2e8a539a4d51d30d3db419919e5df954d6a82d1330690e955a08a",
+      "size_in_bytes": 2268
+    },
+    {
+      "_path": "include/libxslt/transform.h",
+      "path_type": "hardlink",
+      "sha256": "5141cd6d3120184555688842f3ac22fc2a5f7e2a5f2e86fad7d6f188fa44c0d2",
+      "size_in_bytes": 6328
+    },
+    {
+      "_path": "include/libxslt/variables.h",
+      "path_type": "hardlink",
+      "sha256": "dd521dd79b5b77ed727be2e7bc2995bd6291c635d76eea044a2ab2b4bf0378d8",
+      "size_in_bytes": 2593
+    },
+    {
+      "_path": "include/libxslt/xslt.h",
+      "path_type": "hardlink",
+      "sha256": "c26171d90df53ddf08ab6a61010a58f49dd041ab5bf255a0de0001b6a285804c",
+      "size_in_bytes": 1964
+    },
+    {
+      "_path": "include/libxslt/xsltInternals.h",
+      "path_type": "hardlink",
+      "sha256": "02fa1b4ea039a82e6736ae165992d84326e054a1d22d0265e7481f999a558a2b",
+      "size_in_bytes": 57010
+    },
+    {
+      "_path": "include/libxslt/xsltconfig.h",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "891219227199fd0b766bbd014d10594c98141e290f8a3ec443d008d9e85772e2",
+      "size_in_bytes": 3690
+    },
+    {
+      "_path": "include/libxslt/xsltexports.h",
+      "path_type": "hardlink",
+      "sha256": "40b83571f4f72d6de6d6242776e0dbb2d760f3c7080653e46b1331de1941eef1",
+      "size_in_bytes": 3426
+    },
+    {
+      "_path": "include/libxslt/xsltlocale.h",
+      "path_type": "hardlink",
+      "sha256": "18bda9847c1e7bf98931a4a1dcade879146e89d72c4e6a26a9ed5b941eee8a5f",
+      "size_in_bytes": 1396
+    },
+    {
+      "_path": "include/libxslt/xsltutils.h",
+      "path_type": "hardlink",
+      "sha256": "0f61aaa29e1c89e2623ac42d2d64c97b319e6bd90e35c505c5eca42e319123f1",
+      "size_in_bytes": 8297
+    },
+    {
+      "_path": "lib/libexslt.a",
+      "path_type": "hardlink",
+      "sha256": "798942d7e98772ec55663e02f8e1eb70b4c4c84d9025d1c18c3bb2f9f98ddd8f",
+      "size_in_bytes": 684514
+    },
+    {
+      "_path": "lib/libexslt.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "f6a4da3205e666fbfefdaff955c0411c476fb451011c731c82acecd983fa5ad7",
+      "size_in_bytes": 1144
+    },
+    {
+      "_path": "lib/libexslt.so",
+      "path_type": "softlink",
+      "sha256": "55144d3e3604e2ea4b26c2f8b2be3d9268c9dde7fb1c762ab529f175e36359a4",
+      "size_in_bytes": 420474
+    },
+    {
+      "_path": "lib/libexslt.so.0",
+      "path_type": "softlink",
+      "sha256": "55144d3e3604e2ea4b26c2f8b2be3d9268c9dde7fb1c762ab529f175e36359a4",
+      "size_in_bytes": 420474
+    },
+    {
+      "_path": "lib/libexslt.so.0.8.17",
+      "path_type": "hardlink",
+      "sha256": "55144d3e3604e2ea4b26c2f8b2be3d9268c9dde7fb1c762ab529f175e36359a4",
+      "size_in_bytes": 420474
+    },
+    {
+      "_path": "lib/libxslt.a",
+      "path_type": "hardlink",
+      "sha256": "ad3f2d58ac011eb3481558d80251d328504c5b2f353e69fd0d429358be96e63d",
+      "size_in_bytes": 2073882
+    },
+    {
+      "_path": "lib/libxslt.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "89be8b687d7b23b2a58a2be77c5771f07719a203e6b6d21828bf4f5729795cef",
+      "size_in_bytes": 1089
+    },
+    {
+      "_path": "lib/libxslt.so",
+      "path_type": "softlink",
+      "sha256": "b8e69c385bd366530a8d35b4020bb5cc8ea1523d6bedd4e0dc699eff001516ae",
+      "size_in_bytes": 1158367
+    },
+    {
+      "_path": "lib/libxslt.so.1",
+      "path_type": "softlink",
+      "sha256": "b8e69c385bd366530a8d35b4020bb5cc8ea1523d6bedd4e0dc699eff001516ae",
+      "size_in_bytes": 1158367
+    },
+    {
+      "_path": "lib/libxslt.so.1.1.29",
+      "path_type": "hardlink",
+      "sha256": "b8e69c385bd366530a8d35b4020bb5cc8ea1523d6bedd4e0dc699eff001516ae",
+      "size_in_bytes": 1158367
+    },
+    {
+      "_path": "lib/pkgconfig/libexslt.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "648bc0d26acfda69559d65f3dbaaf6230bc936265fbe70538c2a0d06f0e5a815",
+      "size_in_bytes": 416
+    },
+    {
+      "_path": "lib/pkgconfig/libxslt.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "df0f16acfaeb49e411039c0939c817823725f5494c2ed5ad64d184a318fd18b3",
+      "size_in_bytes": 407
+    },
+    {
+      "_path": "lib/xsltConf.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "7f22bf890a5feaa6456aff9c4c5ba4fb8fe040f777b0565869fac173cb77009b",
+      "size_in_bytes": 365
+    },
+    {
+      "_path": "share/aclocal/libxslt.m4",
+      "path_type": "hardlink",
+      "sha256": "e5db1173f22fd9f131801e52b0127075120c31b78b8f046f173a1e934b3d0d73",
+      "size_in_bytes": 8119
+    },
+    {
+      "_path": "share/man/man1/xsltproc.1",
+      "path_type": "hardlink",
+      "sha256": "c4b9783d017199863362a04f8723e40abb23e010707ef4af1849ba912692e9cc",
+      "size_in_bytes": 8256
+    },
+    {
+      "_path": "share/man/man3/libexslt.3",
+      "path_type": "hardlink",
+      "sha256": "b89c45c0f756a60b51aece92c58b8fa9ba27ed93bf14a1cf14aa7b99ec43fecb",
+      "size_in_bytes": 6521
+    },
+    {
+      "_path": "share/man/man3/libxslt.3",
+      "path_type": "hardlink",
+      "sha256": "091321ae02fc50eef6087b9ac236f6c5fc17e5e5ef21800794888143db7aa485",
+      "size_in_bytes": 816
+    }
+  ],
+  "paths_version": 1
+}

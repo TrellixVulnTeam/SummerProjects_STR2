@@ -1,0 +1,11 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "GPL2", 
+  "name": "jbig", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.1"
+}

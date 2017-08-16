@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "MIT", 
+  "name": "yaml", 
+  "platform": "linux", 
+  "requires": [], 
+  "subdir": "linux-ppc64le", 
+  "version": "0.1.6"
+}

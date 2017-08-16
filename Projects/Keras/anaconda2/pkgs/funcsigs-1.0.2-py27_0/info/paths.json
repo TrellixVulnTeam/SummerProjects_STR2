@@ -1,0 +1,71 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "b2a456ba4a234e7409951a29540c589ac7ab9c462da6ccb042eef65086238a8f",
+      "size_in_bytes": 17206
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "d604c9e233a148c67d1b85f117e3f380f17654c165c1e0891287e4e95a62777e",
+      "size_in_bytes": 479
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/pbr.json",
+      "path_type": "hardlink",
+      "sha256": "4ccf6749b8e047fcfe3af11d36a6c82d63988659a90dbba3b7cc8cfce1c1c313",
+      "size_in_bytes": 46
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "78ea3a0da81321f26f9aa5828229b4d8cb94df76c877ac8713bedc659f74ef78",
+      "size_in_bytes": 37
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "a74145713f6b5a33dba1958f2be2e59cc1124fa0fcc737fa46f11325e348b0db",
+      "size_in_bytes": 9
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "195e18ba581e196d480d2de5e3ffe09599db4c9a252c3fd4180140852196382f",
+      "size_in_bytes": 30390
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "29746d646c56601c98d4b21bb987eaea4a540de7e925e1db0afc02659c82fbb6",
+      "size_in_bytes": 21849
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs/version.py",
+      "path_type": "hardlink",
+      "sha256": "6372d27d18a84a5db1721ef4a6afd42e5bf21025f212d37792b55a59e1b26b19",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "lib/python2.7/site-packages/funcsigs/version.pyc",
+      "path_type": "hardlink",
+      "sha256": "86fc418a32c8b869023b55fdaba805b75beb63e511b09e9612b28404dc9795f2",
+      "size_in_bytes": 166
+    }
+  ],
+  "paths_version": 1
+}

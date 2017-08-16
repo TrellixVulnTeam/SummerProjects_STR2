@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "py >=1.4.29", 
+    "python 2.7*", 
+    "setuptools"
+  ], 
+  "license": "MIT", 
+  "name": "pytest", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.0.7"
+}

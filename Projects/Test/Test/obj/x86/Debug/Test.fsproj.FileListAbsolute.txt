@@ -1,0 +1,10 @@
+/home/bob/Projects/Test/Test/bin/Debug/Test.exe
+/home/bob/Projects/Test/Test/bin/Debug/Test.exe.mdb
+/home/bob/Projects/Test/Test/bin/Debug/FSharp.Core.dll
+/home/bob/Projects/Test/Test/bin/Debug/System.ValueTuple.dll
+/home/bob/Projects/Test/Test/bin/Debug/teslib.dll
+/home/bob/Projects/Test/Test/bin/Debug/FSharp.Core.xml
+/home/bob/Projects/Test/Test/obj/x86/Debug/Test.fsprojResolveAssemblyReference.cache
+/home/bob/Projects/Test/Test/obj/x86/Debug/Test.fsproj.CoreCompileInputs.cache
+/home/bob/Projects/Test/Test/obj/x86/Debug/Test.exe
+/home/bob/Projects/Test/Test/obj/x86/Debug/Test.exe.mdb

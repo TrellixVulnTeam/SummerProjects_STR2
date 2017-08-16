@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "Python Software Foundation License", 
+  "license_family": "PSF", 
+  "name": "subprocess32", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "3.2.7"
+}

@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "openssl 1.0.2*", 
+    "sqlite 3.13.*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "PSF", 
+  "name": "python", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.7.13"
+}

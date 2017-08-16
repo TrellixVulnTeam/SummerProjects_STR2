@@ -1,0 +1,16 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "lazy-object-proxy", 
+    "python 2.7*", 
+    "six", 
+    "wrapt"
+  ], 
+  "license": "LGPL", 
+  "name": "astroid", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.4.9"
+}

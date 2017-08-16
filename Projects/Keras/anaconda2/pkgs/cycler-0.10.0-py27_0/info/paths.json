@@ -1,0 +1,47 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/cycler-0.10.0-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "ce10e11635687c0d15e1439c333b47b7cb4b4e4b2e94e3ba47367ae1a8a2b1b2",
+      "size_in_bytes": 713
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler-0.10.0-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "8909dc61305e58cf05d4db783bfaa5cae82e7dc9f9f458632bc4330f1aee0918",
+      "size_in_bytes": 390
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler-0.10.0-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler-0.10.0-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+      "size_in_bytes": 4
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler-0.10.0-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+      "size_in_bytes": 7
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler.py",
+      "path_type": "hardlink",
+      "sha256": "79ddc6dfdba7bd5101ac16550f09c4d0516ba1136c38b91b27f4f0213e428c25",
+      "size_in_bytes": 15959
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cycler.pyc",
+      "path_type": "hardlink",
+      "sha256": "114f916f55605c7f691973b61ce8087d6ce6a7ec4eccc58c1635957ee33e7e9b",
+      "size_in_bytes": 17945
+    }
+  ],
+  "paths_version": 1
+}

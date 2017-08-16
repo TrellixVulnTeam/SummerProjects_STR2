@@ -1,0 +1,48 @@
+{
+  "about": {
+    "home": "http://networkx.lanl.gov/", 
+    "license": "BSD", 
+    "license_file": "LICENSE.txt", 
+    "summary": "Python package for creating and manipulating graphs and networks"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "networkx", 
+    "version": "1.11"
+  }, 
+  "requirements": {
+    "build": [
+      "python", 
+      "setuptools", 
+      "decorator"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python", 
+      "decorator >=3.4"
+    ]
+  }, 
+  "source": {
+    "fn": "networkx-1.11.tar.gz", 
+    "git_rev": "", 
+    "md5": "6ef584a879e9163013e9a762e1cf7cd1", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://pypi.python.org/packages/source/n/networkx/networkx-1.11.tar.gz"
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [], 
+    "requires": []
+  }
+}

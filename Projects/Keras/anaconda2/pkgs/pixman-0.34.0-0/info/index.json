@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "MIT", 
+  "license_family": "MIT", 
+  "name": "pixman", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.34.0"
+}

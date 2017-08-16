@@ -1,0 +1,14 @@
+prefix=/home/bob/anaconda2
+exec_prefix=/home/bob/anaconda2
+libdir=/home/bob/anaconda2/lib
+includedir=/home/bob/anaconda2/include/freetype2
+
+Name: FreeType 2
+URL: http://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 17.4.11
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}

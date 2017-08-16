@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ptyprocess", 
+    "python 2.7*", 
+    "tornado >=4.0"
+  ], 
+  "license": "BSD", 
+  "name": "terminado", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.6"
+}

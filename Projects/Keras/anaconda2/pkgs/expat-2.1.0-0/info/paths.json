@@ -1,0 +1,69 @@
+{
+  "paths": [
+    {
+      "_path": "bin/xmlwf",
+      "path_type": "hardlink",
+      "sha256": "ac95296e359a2e6e14c5ea36be1d94dd689c94eadfe15356b55163c3bfa10370",
+      "size_in_bytes": 138860
+    },
+    {
+      "_path": "include/expat.h",
+      "path_type": "hardlink",
+      "sha256": "50a964dfb496697a5cdc6fe1e923f2c3712f63e360efb9e4f82f2d57515f38f7",
+      "size_in_bytes": 41752
+    },
+    {
+      "_path": "include/expat_external.h",
+      "path_type": "hardlink",
+      "sha256": "1e8d07c8b0802a326a802efa863778a5f16624d2df4c7292165de00267c4936f",
+      "size_in_bytes": 3364
+    },
+    {
+      "_path": "lib/libexpat.a",
+      "path_type": "hardlink",
+      "sha256": "3fb08a6fa1b90a2d0456ae489e131d16c965aa6f8d5a060eea8edf9e7214a371",
+      "size_in_bytes": 765944
+    },
+    {
+      "_path": "lib/libexpat.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "fd9577d25ca0cf78f2f0d5d782352ffc17bef77566bb71a4b3a7dfc86b43450b",
+      "size_in_bytes": 964
+    },
+    {
+      "_path": "lib/libexpat.so",
+      "path_type": "softlink",
+      "sha256": "2c481d479dc26668ba5cb4c4ec3041ab3cea2efa7103f7243118c91f8885e901",
+      "size_in_bytes": 585754
+    },
+    {
+      "_path": "lib/libexpat.so.1",
+      "path_type": "softlink",
+      "sha256": "2c481d479dc26668ba5cb4c4ec3041ab3cea2efa7103f7243118c91f8885e901",
+      "size_in_bytes": 585754
+    },
+    {
+      "_path": "lib/libexpat.so.1.6.0",
+      "path_type": "hardlink",
+      "sha256": "2c481d479dc26668ba5cb4c4ec3041ab3cea2efa7103f7243118c91f8885e901",
+      "size_in_bytes": 585754
+    },
+    {
+      "_path": "lib/pkgconfig/expat.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "7012ba9dff5f48c13cabb4424dcbb751bf612dda7104f581fdf7c93207d3272e",
+      "size_in_bytes": 254
+    },
+    {
+      "_path": "share/man/man1/xmlwf.1",
+      "path_type": "hardlink",
+      "sha256": "345eb3cbc126eec030e0b6743287e24b5cba91a55e2ec17bb1ac0df8d630bdb7",
+      "size_in_bytes": 7895
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,89 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f4d9580d2851824cccb4d797cdde745e0c9a6ecafa6f35de0d6427494d3d1fcf",
+      "size_in_bytes": 1385
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "0964731f98164fced3f7841f7c13ac74c2ac194a18c53af0a177775ea43daf22",
+      "size_in_bytes": 2128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/_packer.so",
+      "path_type": "hardlink",
+      "sha256": "b90277ca960150e6bb4c6fde1bcd9ea2e27abc083c9c2b8043aa11d17b5c1519",
+      "size_in_bytes": 422902
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/_unpacker.so",
+      "path_type": "hardlink",
+      "sha256": "70521d05527cd81bb555701537f54d989f127785b277e2edce33fcc20df1ce5d",
+      "size_in_bytes": 436418
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/_version.py",
+      "path_type": "hardlink",
+      "sha256": "5f64c594e95bb3dee54cf04c1df74f5ea42f978626087b25292b5a52db8d4491",
+      "size_in_bytes": 20
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "0b83d300a51e83d623c2d7f634e5c29adb62c343298041062c276133af527295",
+      "size_in_bytes": 187
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/exceptions.py",
+      "path_type": "hardlink",
+      "sha256": "fd83c975731be5126fa10e1371721bbb19c9e4aa23aa91e9ff80e48ac7c81dd5",
+      "size_in_bytes": 503
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/exceptions.pyc",
+      "path_type": "hardlink",
+      "sha256": "fe8006d64711443c2ea9cc6d8d9bf8de36350dab4a05db3972ae791e6339d50e",
+      "size_in_bytes": 1847
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/fallback.py",
+      "path_type": "hardlink",
+      "sha256": "1d2533251cee0a823d4ce6d308fc01eca30f7f2277a742dbb5d8cb985f4f6bb8",
+      "size_in_bytes": 32073
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack/fallback.pyc",
+      "path_type": "hardlink",
+      "sha256": "017ff01b135eeb133560f80c7c5c7e9016d26a6660500915650c80ac01141db5",
+      "size_in_bytes": 26037
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack_python-0.4.8-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "b0f558bbc5dace34eb0923cbbd39c9ac42554c4a27cbb18d9459d973cee04542",
+      "size_in_bytes": 10455
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack_python-0.4.8-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "ec13d547d90ad710bdc9f08a102a2d54872c29fa590ca9b8dc2f7589f5efce43",
+      "size_in_bytes": 600
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack_python-0.4.8-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/msgpack_python-0.4.8-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "dadca4498d695dd880db16130d1ea33f0d2a239646c518a1ca17f84b9859c979",
+      "size_in_bytes": 8
+    }
+  ],
+  "paths_version": 1
+}

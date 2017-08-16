@@ -1,0 +1,63 @@
+{
+  "paths": [
+    {
+      "_path": "bin/curve_keygen",
+      "path_type": "hardlink",
+      "sha256": "1abde860e03ec19ac7d3a3a7d3df17258a1bca42fdb79427b45b0f8d5e6843c2",
+      "size_in_bytes": 73709
+    },
+    {
+      "_path": "include/zmq.h",
+      "path_type": "hardlink",
+      "sha256": "3908eedc04b27eacfd70827a88f0391d8ac6f2cbf0833d12fcd130dbc7412374",
+      "size_in_bytes": 16860
+    },
+    {
+      "_path": "include/zmq_utils.h",
+      "path_type": "hardlink",
+      "sha256": "af64a27fb91e25418a31dadd939a54f7065dbd1f3d6591ab02fedbfaaddd0537",
+      "size_in_bytes": 844
+    },
+    {
+      "_path": "lib/libzmq.a",
+      "path_type": "hardlink",
+      "sha256": "b583b9e1b138f6742b1b985d1b66eff5a61ad10a91cb9f71d4f05bf8f0d1c971",
+      "size_in_bytes": 16215018
+    },
+    {
+      "_path": "lib/libzmq.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "63e873321cdba05fca7e3ad451cbb007ad62cf1590224e8a2db7feede02b1bdd",
+      "size_in_bytes": 969
+    },
+    {
+      "_path": "lib/libzmq.so",
+      "path_type": "softlink",
+      "sha256": "f6cc46c580bbedcb54efd2eb13cfe625d321c0c4af03d3b982ee6f3745c04fff",
+      "size_in_bytes": 5910572
+    },
+    {
+      "_path": "lib/libzmq.so.5",
+      "path_type": "softlink",
+      "sha256": "f6cc46c580bbedcb54efd2eb13cfe625d321c0c4af03d3b982ee6f3745c04fff",
+      "size_in_bytes": 5910572
+    },
+    {
+      "_path": "lib/libzmq.so.5.0.1",
+      "path_type": "hardlink",
+      "sha256": "f6cc46c580bbedcb54efd2eb13cfe625d321c0c4af03d3b982ee6f3745c04fff",
+      "size_in_bytes": 5910572
+    },
+    {
+      "_path": "lib/pkgconfig/libzmq.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "b8f2ebb29b0f1350d353e129fd77d4ab4930792c23976d9ab0fca6a783a3de5c",
+      "size_in_bytes": 223
+    }
+  ],
+  "paths_version": 1
+}

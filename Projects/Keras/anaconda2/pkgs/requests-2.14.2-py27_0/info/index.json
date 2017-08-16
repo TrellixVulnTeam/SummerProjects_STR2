@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "Apache Software License", 
+  "license_family": "Apache", 
+  "name": "requests", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.14.2"
+}

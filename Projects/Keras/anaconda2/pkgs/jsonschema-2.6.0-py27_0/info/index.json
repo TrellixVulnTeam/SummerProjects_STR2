@@ -1,0 +1,14 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "functools32", 
+    "python 2.7*"
+  ], 
+  "license": "MIT", 
+  "name": "jsonschema", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.6.0"
+}

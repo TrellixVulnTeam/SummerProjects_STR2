@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "BSD-like", 
+  "license_family": "BSD", 
+  "name": "tk", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "8.5.18"
+}

@@ -1,0 +1,11 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "BSD", 
+  "name": "conda-env", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.6.0"
+}

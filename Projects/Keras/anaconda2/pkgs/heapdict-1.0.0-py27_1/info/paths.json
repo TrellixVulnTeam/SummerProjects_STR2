@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/HeapDict-1.0.0-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "9dd6ae8a2d5f8cb90b68711e8716d96e66acd0bbd637169ac05862836caf8f3a",
+      "size_in_bytes": 2177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/heapdict.py",
+      "path_type": "hardlink",
+      "sha256": "7dd1550aef6f50040b72b85be390392e4e2a1dee30871b4023fedcef846b6aa3",
+      "size_in_bytes": 2836
+    },
+    {
+      "_path": "lib/python2.7/site-packages/heapdict.pyc",
+      "path_type": "hardlink",
+      "sha256": "4f78d404295112c07dc2a96fef5d89e12e6f5b706ffdf8ae57f993e7bb6025ad",
+      "size_in_bytes": 4654
+    }
+  ],
+  "paths_version": 1
+}

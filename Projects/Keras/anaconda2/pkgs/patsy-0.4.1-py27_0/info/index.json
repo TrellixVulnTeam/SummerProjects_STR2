@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "numpy", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "BSD", 
+  "name": "patsy", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "0.4.1"
+}

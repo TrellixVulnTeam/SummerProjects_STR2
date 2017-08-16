@@ -1,0 +1,15 @@
+{
+  "arch": "ppc64le", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "notebook >=4.4.1", 
+    "python 2.7*"
+  ], 
+  "license": "BSD 3-clause", 
+  "license_family": "BSD", 
+  "name": "widgetsnbextension", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "2.0.0"
+}

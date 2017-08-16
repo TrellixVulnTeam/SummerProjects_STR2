@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/cdecimal-2.3-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "a33b8ee0371f5ebffe6229c609df0e314fa5225d2b274d289a9e1cd191f54506",
+      "size_in_bytes": 3967
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cdecimal.so",
+      "path_type": "hardlink",
+      "sha256": "482cf282a286ddeefdb82b99f0d3021342656ed6b9423f4cd4acd71f74f78c62",
+      "size_in_bytes": 2227084
+    }
+  ],
+  "paths_version": 1
+}

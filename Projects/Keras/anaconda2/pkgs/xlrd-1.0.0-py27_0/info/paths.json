@@ -1,0 +1,211 @@
+{
+  "paths": [
+    {
+      "_path": "bin/runxlrd.py",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "e861d6edefc4140d3919a20dfa49ed4cd2e268c91994db9982f392f835cd8b56",
+      "size_in_bytes": 16328
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd-1.0.0-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "20f4d3df8b00ebb4e71fc2b97f4144cb7d61535fa71f97d5a95f5128edcb33c9",
+      "size_in_bytes": 994
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd-1.0.0-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "6fbfc889b50e97fec7e34d34e73ac4f390a3c49a51588e2f2499a494023254bd",
+      "size_in_bytes": 1407
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd-1.0.0-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd-1.0.0-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "9d9faddd273f0aa36c72d4b72fe577eaa5f00b90ee005be40758a7240a45fef3",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c87f93b7f53c0ef70847a3325560d121d3b3ec376673b4d5ac53a33bdfbcf7d5",
+      "size_in_bytes": 21415
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "4d7ca0c02dcdfab42fd0534b5e229b451d7802514bc5a7b0622c85ba3d7eebba",
+      "size_in_bytes": 3415
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/biffh.py",
+      "path_type": "hardlink",
+      "sha256": "30f108eefd2524a2877fa622a05cd36e6fa58f738286f452d1a8cee7a41c2741",
+      "size_in_bytes": 17511
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/biffh.pyc",
+      "path_type": "hardlink",
+      "sha256": "69aecbd5b1b5853e3cbbf5b6f8ad3fdba9f7eab1cc490016a1bf9b50e1c1870e",
+      "size_in_bytes": 14963
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/book.py",
+      "path_type": "hardlink",
+      "sha256": "d8448f8e3a7df670546d3a7d469522756fa94636822b49e106dbadcdbf109faa",
+      "size_in_bytes": 56979
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/book.pyc",
+      "path_type": "hardlink",
+      "sha256": "9de5dbfdf329fe67692aafc856e9f764e58156c3941821d3f2cb7e9d6a7b4aec",
+      "size_in_bytes": 36247
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/compdoc.py",
+      "path_type": "hardlink",
+      "sha256": "a8d5716d669affc913c49dd7119e3486b19f9b5d372c4ef82f581cd76ad53b08",
+      "size_in_bytes": 21226
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/compdoc.pyc",
+      "path_type": "hardlink",
+      "sha256": "6cc4e4241504cc9de7d5c4792cb4261642e1600d6623d0fdbf2cb75c558616f6",
+      "size_in_bytes": 13337
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/doc/compdoc.html",
+      "path_type": "hardlink",
+      "sha256": "b99167e05458b2d745eb4ed83e03c50b2546cca35d6f739b3c1a83184bf6e89f",
+      "size_in_bytes": 3055
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/doc/xlrd.html",
+      "path_type": "hardlink",
+      "sha256": "2ec074a99569b47523b2a1bb85f1c135bda4fa2395b6a9984ec2669c2cc7151d",
+      "size_in_bytes": 103562
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/examples/namesdemo.xls",
+      "path_type": "hardlink",
+      "sha256": "b2185646afdfcd47c0a2a10122690ac5ef1c0bd7e5f916887f57bfcd2c5ab5ba",
+      "size_in_bytes": 22528
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/examples/xlrdnameAPIdemo.py",
+      "path_type": "hardlink",
+      "sha256": "38fd9df9c00964d8d6cb366d0a49899e784340e2943097ce13b2e56bf4816de6",
+      "size_in_bytes": 7138
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/examples/xlrdnameAPIdemo.pyc",
+      "path_type": "hardlink",
+      "sha256": "a3f2d56e6b1bc9f170f66931a40df2a1812ced9659dccab28a4bfb18c3814b0a",
+      "size_in_bytes": 6278
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/formatting.py",
+      "path_type": "hardlink",
+      "sha256": "ba68494f6d3f7f9f65d0429e99307ec19ee009f8198e22466be03facda0ffe36",
+      "size_in_bytes": 45177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/formatting.pyc",
+      "path_type": "hardlink",
+      "sha256": "42de6453422879e88d33139321952fbe72b17bff81a26addc9f574708f911a4d",
+      "size_in_bytes": 26976
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/formula.py",
+      "path_type": "hardlink",
+      "sha256": "607aabdc86babd67cb8e45fd87501faedc84bcd5a4af26937605d556dfe119d4",
+      "size_in_bytes": 94301
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/formula.pyc",
+      "path_type": "hardlink",
+      "sha256": "792d92b4dd65c47ee78196dd73763b25f36b211c1c6900d13aafde1038ebe50b",
+      "size_in_bytes": 60891
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/info.py",
+      "path_type": "hardlink",
+      "sha256": "08261052dd7d6e2d247e8d10f2af2c9e7c20c3f73d177b3a145c5332c5f5c831",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/info.pyc",
+      "path_type": "hardlink",
+      "sha256": "7343922fc97f0230230903fe823f56763e0e0d1a03b8051af7445a9134183e6d",
+      "size_in_bytes": 159
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/licences.py",
+      "path_type": "hardlink",
+      "sha256": "f32ca7a3a2fd0c4a9679682db3bc6d57d0e32e0544dd1a1a7b77d1374d7e10ae",
+      "size_in_bytes": 3406
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/licences.pyc",
+      "path_type": "hardlink",
+      "sha256": "10f53b98c11e7e25742ea7bdeece85d93e826a0f2d7190786acc8425fd210dd3",
+      "size_in_bytes": 1677
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/sheet.py",
+      "path_type": "hardlink",
+      "sha256": "4fafce39bf8104f19f5fba2cb6d71ab5fd1eb5d1c87900b4e06dff951221f784",
+      "size_in_bytes": 107382
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/sheet.pyc",
+      "path_type": "hardlink",
+      "sha256": "a059a47e8eac453ac1e22e5150d3cc78b2cb13669273ef2f4420375f697c4ff2",
+      "size_in_bytes": 50582
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/timemachine.py",
+      "path_type": "hardlink",
+      "sha256": "35f80e25a0dbfb04bb4053f9756f6f6d956a8051b80842a256d266dd743b4d50",
+      "size_in_bytes": 1773
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/timemachine.pyc",
+      "path_type": "hardlink",
+      "sha256": "9d6a0ec01cc854bb2b4197ab4c04b727936510c43210f693741abf309323ab24",
+      "size_in_bytes": 2425
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/xldate.py",
+      "path_type": "hardlink",
+      "sha256": "471d63acec1cc1cbab06b931dd67f5e8892a8a128576c78620bcfcf108c65275",
+      "size_in_bytes": 7895
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/xldate.pyc",
+      "path_type": "hardlink",
+      "sha256": "12f0c731643945b48490cc98c452ad2174ff70525fe86f886c314f43fb218a68",
+      "size_in_bytes": 5329
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/xlsx.py",
+      "path_type": "hardlink",
+      "sha256": "3a82a8634d232b65fe3ee6c2b7f4bcad8e76d69fbd8ec0e63f7ab9923574e4c1",
+      "size_in_bytes": 34130
+    },
+    {
+      "_path": "lib/python2.7/site-packages/xlrd/xlsx.pyc",
+      "path_type": "hardlink",
+      "sha256": "6485cce9964892e39f504791e8e4be0d3e49990cb65e11353fafc5e7040144aa",
+      "size_in_bytes": 27898
+    }
+  ],
+  "paths_version": 1
+}

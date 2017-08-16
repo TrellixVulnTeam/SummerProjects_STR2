@@ -1,0 +1,7 @@
+platform:  Linux-3.13.0-117-generic-ppc64le-with-debian-jessie-sid
+system:    Linux
+node:      p8-build
+release:   3.13.0-117-generic
+version:   #164-Ubuntu SMP Fri Apr 7 11:05:29 UTC 2017
+machine:   ppc64le
+processor: ppc64le

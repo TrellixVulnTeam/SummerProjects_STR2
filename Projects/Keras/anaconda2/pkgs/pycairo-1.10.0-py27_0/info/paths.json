@@ -1,0 +1,45 @@
+{
+  "paths": [
+    {
+      "_path": "include/pycairo/pycairo.h",
+      "path_type": "hardlink",
+      "sha256": "d2a9759a18b067d5f8ef36927822976e7a67d1efb5a082093f01b3c8eb438063",
+      "size_in_bytes": 7489
+    },
+    {
+      "_path": "lib/pkgconfig/py3cairo.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "21368218682be358d941cc0a86fff3f90ae63306530fb676e9b2a25e764f0599",
+      "size_in_bytes": 168
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cairo/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a323f1ad147d8f42a341a48baf7139472c87695318cce441813cd6ec147ec0ab",
+      "size_in_bytes": 21
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cairo/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "dc447836552bb8375f671159fd9de293d90cfd7d7c8581d2df017196068ed9e4",
+      "size_in_bytes": 169
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cairo/_cairo.so",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/ilan/minonda/conda-bld/pycairo_1490340911608/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "280604c4b2c52df1e994961888a50a71e31c94054b2e8d37f68df91897764c7c",
+      "size_in_bytes": 386565
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pycairo-1.10.0-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "fce3bda76f1d8fe0af2ec066a8414c38238fdba85fd1d350454714339b03f8a7",
+      "size_in_bytes": 201
+    }
+  ],
+  "paths_version": 1
+}

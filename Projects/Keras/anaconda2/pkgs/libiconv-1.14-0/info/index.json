@@ -1,0 +1,12 @@
+{
+  "arch": "ppc64le", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "GPL and LGPL", 
+  "license_family": "GPL2", 
+  "name": "libiconv", 
+  "platform": "linux", 
+  "subdir": "linux-ppc64le", 
+  "version": "1.14"
+}

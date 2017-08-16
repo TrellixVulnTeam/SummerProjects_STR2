@@ -1,0 +1,48 @@
+{
+  "about": {
+    "home": "https://bitbucket.org/openpyxl/et_xmlfile", 
+    "license": "MIT", 
+    "summary": "implementation of lxml.xmlfile for the standard library"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "pin_depends": "", 
+    "script_env": [], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "et_xmlfile", 
+    "version": "1.0.1"
+  }, 
+  "requirements": {
+    "build": [
+      "python", 
+      "setuptools"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python"
+    ]
+  }, 
+  "source": {
+    "fn": "et_xmlfile-1.0.1.tar.gz", 
+    "git_rev": "", 
+    "md5": "f47940fd9d556375420b2e276476cfaf", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": "", 
+    "url": "https://pypi.python.org/packages/source/e/et_xmlfile/et_xmlfile-1.0.1.tar.gz"
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [
+      "et_xmlfile", 
+      "et_xmlfile.tests"
+    ], 
+    "requires": []
+  }
+}

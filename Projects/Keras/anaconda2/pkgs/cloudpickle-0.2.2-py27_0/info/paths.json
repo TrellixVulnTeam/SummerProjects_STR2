@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/cloudpickle-0.2.2-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "d42d75dde2a52862903788b5230e5c5fc3bf799f2cf7b66ede7d9ad6eb4d50f9",
+      "size_in_bytes": 4451
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cloudpickle/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "465aeafce363226f54255c040aa04c6b1dc3dc490199caba623f3d27badd9e25",
+      "size_in_bytes": 101
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cloudpickle/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "48754e4db003d35d6efa84b67dfa53c97df9b3bd13b2e4aa8f45ba3687e0c0b2",
+      "size_in_bytes": 289
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cloudpickle/cloudpickle.py",
+      "path_type": "hardlink",
+      "sha256": "0a6f57789fc6e1a4c12cb6c4705d759aec1e4e94cc9f9ba5c6fa9e1439b9296e",
+      "size_in_bytes": 28615
+    },
+    {
+      "_path": "lib/python2.7/site-packages/cloudpickle/cloudpickle.pyc",
+      "path_type": "hardlink",
+      "sha256": "892bffbdb268a27f3908bd1ae8f9a52dd9517b1076aa21c4d0ee9ea32e881a28",
+      "size_in_bytes": 27775
+    }
+  ],
+  "paths_version": 1
+}
