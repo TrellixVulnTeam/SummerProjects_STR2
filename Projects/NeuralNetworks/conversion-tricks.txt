@@ -1,0 +1,52 @@
+## uninitialized variables
+
+```
+int i, j, k;
+```
+
+F# wants you to initialize everything and also doesn't need the type declared (usually). So this would be
+
+```
+let i = 0.0
+let j = 0.0
+let k = 0.0
+```
+
+## pointers
+
+```
+void SENNA_nn_temporal_max_convolution(float *output, float *bias,
+```
+
+If the pointer is to an array, you can consider it as "pass by reference" of the array, which is default in F#.
+So you don't need to do anything except change the syntax a bit.
+
+```
+let SENNA_nn_temporal_max_convolution  (output: float array)  ( bias : array<float> ) =
+
+```
+
+both type syntaxes should be OK
+
+## constants
+
+```
+float maxval = -FLT_MAX; 
+```
+
+Constants in C are usually in an include file for the whole project. 
+
+Likewise this could be done in F#, but you could also just put at top of current F# file
+
+```
+let FLT_MAX = 3.0
+```
+
+Assuming 3.0 was the value in the C include file
+
+## convert from single dimension array to multi dimension array
+
+Typically you'll want to leave this alone b/c single dimension will be faster, but conceptually, 
+what's going on:
+
+a[row][column] = b[row * columns + column]
